@@ -1,4 +1,4 @@
-#!Note! This program is a small PoC developed for a forensics course at the university of BTH.
+# !Note! This program is a small PoC developed for a forensics course at the university of BTH.
 
 ### This program is heavily inspired by the fishy framework and utilizes some of their functionality to achieve this PoCs goal. https://www.github.com/dasec/fishy
 
